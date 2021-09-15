@@ -8,7 +8,7 @@ operate workloads on AWS.
 
 #####I will be adding resources to this repositrry in a organised way which are avilable freely from the world wide web . To make it easy for learning 
 
-##AWS-SysOpsAdministrator-Associate(SOA-C02)  Learning resources 
+## AWS-SysOpsAdministrator-Associate(SOA-C02)  Learning resources 
 
 <img src="/assets/AWS-SysOpAdmin-Associate-2020.png" alt="drawing" width="150"/>
 
