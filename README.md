@@ -6,4 +6,4 @@ The AWS Certified SysOps Administrator – Associate (SOA-C02) exam is intended 
 administrators in a cloud operations role. The exam validates a candidate’s ability to deploy, manage, and
 operate workloads on AWS.
 
-I will be adding resources to this repositrry which are avilable freely on the world wide web . t make it easy for learning 
+I will be adding resources to this repositrry which are avilable freely from the world wide web . To make it easy for learning 
