@@ -1,7 +1,8 @@
 # AWS-SysOpsAdministrator-Associate-SOA-C02
 AWS-SysOpsAdministrator-Associate(SOA-C02)  Learning resources 
-
+<img src="/assets/AWS-SysOpAdmin-Associate-2020.png" alt="drawing" width="200"/>
 ![Logo](/assets/AWS-SysOpAdmin-Associate-2020.png)
+
 # Introduction
 
 The AWS Certified SysOps Administrator – Associate (SOA-C02) exam is intended for system
