@@ -13,8 +13,7 @@ You need to have basic understanding of AWS services , recomended to do AWS CCP 
 
 >* [AWS Technical Essentials](https://www.aws.training/Details/eLearning?id=71079&sysops=sec&sec=prep " aws.training")
 >* [KodeKloud AWS Cloud for Beginners](https://kodekloud.com/courses/aws-cloud-for-beginners/ " KodeKloud ")
-exampro
-https://www.youtube.com/playlist?list=PLzde74P_a04cyCsmZakYbUE5sWN9dZ-Ux
+>* [exampro](https://www.youtube.com/playlist?list=PLzde74P_a04cyCsmZakYbUE5sWN9dZ-Ux/ "exampro")
 
 
 
