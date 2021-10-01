@@ -57,3 +57,4 @@ You need to have basic understanding of AWS services , recomended to do AWS CCP 
 |[ Certification Events from AWS](https://aws.amazon.com/training/events/?nc2=sb_tr_evt&get-certified-vilt-courses-cards.sort-by=item.additionalFields.startDateSort&get-certified-vilt-courses-cards.sort-order=asc&awsf.get-certified-vilt-courses-type=*all&awsf.get-certified-vilt-courses-series=series%23aws-certification-exam-readiness&awsf.get-certified-vilt-audience=*all&awsf.get-certified-vilt-locations=*all&awsf.get-certified-vilt-countries=*all&awsf.get-certified-vilt-languages=*all&awsf.get-certified-vilt-courses-level=level%23200&awsf.get-certified-vilt-courses-tech-category=*all&get-certified-vilt-courses-cards.q=aws%2Bcertified%2Bsysops&get-certified-vilt-courses-cards.q_operator=AND&?sysops=sec&sec=prep) | [ Exam Readiness from AWS ](https://www.aws.training/Details/eLearning?id=77279)| 
 | :---        |    :----:   | 
 
+* this repo is under development 
